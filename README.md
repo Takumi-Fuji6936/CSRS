@@ -1,4 +1,5 @@
-This readme file was generated on 2022-06-29 by Takumi Fujiwara and Wataru Takeuchi.
+#CSRS
+This readme file was generated on 2022-06-29 by Takumi Fujiwara.
 
 ORCID:https://orcid.org/0000-0001-5018-1776
 Institution:Institute of Industrial Science, The University of Tokyo.
