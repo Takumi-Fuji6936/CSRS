@@ -51,4 +51,4 @@ The each band of 1-3 in the image corresponds to SCS, CS, and reflectance of tar
 #Citation
 
 To cite package citation in publications use:
- 
+Fujiwara, T.; Takeuchi, W. Modeling Shadow with Voxel-Based Trees for Sentinel-2 Reflectance Simulation in Tropical Rainforest. Remote Sens. 2022, 14, 4088. https://doi.org/10.3390/rs14164088
