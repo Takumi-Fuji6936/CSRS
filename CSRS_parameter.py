@@ -1,7 +1,7 @@
 Dir          = 'Test'  #Name of directory to store virtual forests.
 Forest_scale = 40      #Size of virtual forest(m)
 Voxel_size   = 0.5     #Voxel size(m)
-CC           = 50      #Crown coverage(parsentage)
+CC           = 50      #Crown coverage(persentage)
 #Tree height and crown radius are followed normal distribution.
 #Crown length is half of tree height.
 th_ave       = 7       #Average tree height(m)
@@ -11,7 +11,7 @@ cr_std       = 2       #Standard deviation of crown radius(m)
 dbh          = 0.3     #Diameter at breast height(m)
 n            = 2       #Number of virtual forest of each canopy shape
 slope        = 0       #Slope of virtual forest(degree)
-core_n       = 4       #Nunmber of CPUs for parallel processing
+core_n       = 4       #Number of CPUs for parallel processing
 shape        = 0       #Target canopy shape to calculate reflectance. 
 #shape list  = {0:"Ellipsoid",1:"Ellipsoid_half",2:"Ellipsoid_half_upside_down",
 # 			3:"Cylinder"}
