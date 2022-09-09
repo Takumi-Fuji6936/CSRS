@@ -20,6 +20,9 @@ def Ellipsoid_half_upside_down(Slope,Optim,Optim_stem,Forest_scale,new_path,N,Pa
 	Canopy = 1
 	Floor = 2
 	
+	Slope = math.radians(Slope)
+
+	
 	for j in range(N):
 		Tree_ID = j
 
