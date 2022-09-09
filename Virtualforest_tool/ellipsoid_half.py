@@ -19,6 +19,8 @@ def Ellipsoid_half(Slope,Optim,Optim_stem,Forest_scale,new_path,N,Param_H,Param_
 	Canopy = 1
 	Floor = 2
 	
+	Slope = math.radians(Slope)
+	
 	Over = 5
 	for j in range(N):
 		Tree_ID = j
