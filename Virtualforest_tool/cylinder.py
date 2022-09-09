@@ -21,6 +21,9 @@ def Cylinder(Slope,Optim,Optim_stem,Forest_scale,new_path,N,Param_H,Param_DBH,Pa
 	Canopy = 1
 	Floor = 2
 	
+	Slope = math.radians(Slope)
+
+	
 	for j in range(N):
 		Tree_ID = j
 
